@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: 2021/7/21
+Project Creation Date: 2021/7/21
+author: Daniel Dai
